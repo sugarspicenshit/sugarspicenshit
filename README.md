@@ -3,7 +3,7 @@ slop code generator⠀
 <details>
   <summary>about pfp</summary>
   
-  belle my adorable gremlin wife 🧡
+  **belle** my adorable gremlin wife 🧡
 
   ![alt text](https://media1.tenor.com/m/70XBeW0ZY14AAAAd/belle-zzz.gif)
 </details>
